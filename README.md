@@ -37,6 +37,7 @@ https://github.com/Terekhov-A-S/Containerization-Seminar_5
 
    ![image](https://github.com/bubaleh1337/Containerization-GB/assets/52395752/977edddc-3d07-4734-9245-444dca714450)
 
+   ![image](https://github.com/bubaleh1337/Containerization-GB/assets/52395752/4f08f56a-297e-4625-94c5-8718abdbdced)
 
    
 
