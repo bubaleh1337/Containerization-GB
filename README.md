@@ -24,10 +24,6 @@ https://github.com/Terekhov-A-S/Containerization-Seminar_5
 
    ![image](https://github.com/bubaleh1337/Containerization-GB/assets/52395752/bc12ae46-cac7-4d2f-9bee-da13c9b38929)
 
-
-   ![image](https://github.com/bubaleh1337/Containerization-GB/assets/52395752/c8fdd418-2161-4a29-ad0e-a83d81d1441d)
-
-
    </details>
 
    <details><summary>бд</summary>
